@@ -1,4 +1,4 @@
-# [Ndabezinhle Maziuko]  
+# Ndabezinhle Maziuko
 **Test Automation Engineer**
 
 > _Building quality through automation, performance testing, and user-focused verification._
