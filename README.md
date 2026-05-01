@@ -1,5 +1,5 @@
-# [Your Name]  
-**Aspiring Software Tester / QA Engineer**
+# [Ndabezinhle Maziuko]  
+**Test Automation Engineer**
 
 > _Building quality through automation, performance testing, and user-focused verification._
 
@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I am an aspiring QA Engineer with a strong foundation in customer service and communication. I enjoy applying test automation, API testing, and performance validation to help teams deliver reliable, high-performance software.
+Aspiring QA Engineer specializing in software testing and automation. Focused on API testing, performance testing, and building scalable testing solutions to ensure robust and high-performing applications.
 
 - 🔍 Skilled in software testing, automation, and performance testing
 - ⚙️ Experienced with JavaScript, k6, API workflows, SQL, Git, and Postman
@@ -75,8 +75,8 @@ I am an aspiring QA Engineer with a strong foundation in customer service and co
 
 ## 📬 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/ndabezinhle-mazibuko/)
+- [GitHub](https://github.com/NdabeMazii)
 
 ---
 
