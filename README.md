@@ -74,7 +74,6 @@ k6 | JavaScript
 
 ### 🏢 Ndosi Test Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-4C8BBF?logo=testng&logoColor=white)
-**Test Automation Trainee**
 - Built automated test frameworks using Selenium WebDriver (Java) and TestNG
 - Developed and executed API tests using Postman and REST Assured
 - Used Git for version control and collaboration
