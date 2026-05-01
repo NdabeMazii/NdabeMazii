@@ -1,4 +1,4 @@
-# [Ndabezinhle Maziuko]  
+# Ndabezinhle Maziuko
 **Test Automation Engineer**
 
 > _Building quality through automation, performance testing, and user-focused verification._
@@ -28,24 +28,33 @@ Aspiring QA Engineer specializing in software testing and automation. Focused on
 
 ---
 
-## 🚀 Projects
+## 🚀 GitHub Projects
 
 ### Inventory System Test Automation Framework
 Selenium WebDriver | Java | TestNG
-- Developed a test automation framework for an inventory management system using Selenium WebDriver and Java
-- Automated key test scenarios including login validation, product management, and user workflows
-- Implemented data-driven testing using external data sources (Excel/JSON)
-- Used TestNG for test execution and structuring test cases
-- Applied explicit waits to handle dynamic web elements and improve test reliability
-- Generated test execution reports for tracking results
+- Developed a scalable test automation framework for an inventory management system using Selenium WebDriver and Java
+- Automated key scenarios including login validation, product management, and end-to-end user workflows
+- Implemented data-driven testing using external data sources (Excel/JSON) to improve test coverage
+- Structured and executed test cases using TestNG
+- Applied explicit waits to handle dynamic elements and improve test stability
+- Generated and analyzed test execution reports to track results and identify defects
 
 ### API Testing and Automation Framework
 Postman | RestAssured | Java
-- Performed API testing using Postman, validating status codes, response bodies, and authentication
-- Tested user role validation scenarios (e.g., Admin verification)
-- Developed automated API tests using RestAssured in Java (IntelliJ)
-- Structured API test scripts for scalability and reusability
-- Ensured API reliability through consistent validation and testing practices
+- Performed API testing using Postman, validating status codes, response bodies, and authentication mechanisms
+- Tested role-based access scenarios, including user authorization and admin validation
+- Developed automated API test scripts using RestAssured (Java)
+- Structured test scripts for scalability, reusability, and maintainability
+- Ensured API reliability through consistent validation and structured testing practices
+
+### Performance Testing with k6
+k6 | JavaScript
+- Developed performance testing scripts using k6 (JavaScript) to simulate concurrent user traffic
+- Executed load tests with varying virtual users (VUs) to assess system scalability and stability
+- Monitored key metrics such as response time, request rate, and error rates
+- Defined and applied performance thresholds to evaluate system behavior under load
+- Analyzed test results to identify performance bottlenecks and system limitations
+- Built reusable and maintainable test scripts for repeated performance testing
 
 > Explore all my GitHub projects for additional automation, performance, and API testing examples.
 
@@ -53,7 +62,8 @@ Postman | RestAssured | Java
 
 ## 💼 Experience
 
-### Ndosi Test Automation — Test Automation Trainee
+### Ndosi Test Automation
+Test Automation Trainee
 - Built automated test frameworks using Selenium WebDriver (Java) and TestNG
 - Developed and executed API tests using Postman and REST Assured
 - Used Git for version control and collaboration
@@ -77,10 +87,8 @@ Postman | RestAssured | Java
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NdabeMazii&show_icons=true&theme=radical)](https://github.com/NdabeMazii)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NdabeMazii&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📬 Connect with me
@@ -90,4 +98,4 @@ Postman | RestAssured | Java
 
 ---
 
-> Banner suggestion: Use a clean, modern header image with QA/testing visuals, subtle gradients, and a concise quality-first tagline.
+
