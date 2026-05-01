@@ -28,7 +28,7 @@ I am an aspiring QA Engineer with a strong foundation in customer service and co
 
 ---
 
-## 🚀 Projects
+## 🚀 GitHub Projects
 
 ### Test Automation Framework
 - Developed reusable automation scripts using JavaScript for regression and API validation
@@ -40,16 +40,13 @@ I am an aspiring QA Engineer with a strong foundation in customer service and co
 - Identified performance bottlenecks and documented actionable improvement opportunities
 - Captured reliable metrics and thresholds for scalable system behavior
 
+> Explore all my GitHub projects for additional automation, performance, and API testing examples.
+
 ---
 
 ## 💼 Experience
 
-### Customer Service & Communication
-- Supported customers in a fast-paced call center environment with patience and clarity
-- Translated user feedback into actionable improvements and better service outcomes
-- Developed empathy, active listening, and strong troubleshooting communication
-
-### Transferable Tech Strengths
+### Technical & Transferable Strengths
 - Detail-oriented approach ideal for QA analysis and issue investigation
 - Comfortable documenting findings, collaborating with teams, and learning new tools
 - Experience working within process-driven environments and continuous improvement
