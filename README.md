@@ -30,21 +30,44 @@ Aspiring QA Engineer specializing in software testing and automation. Focused on
 
 ## 🚀 GitHub Projects
 
-### Test Automation Framework
-- Developed reusable automation scripts using JavaScript for regression and API validation
-- Designed stable test flows to accelerate feedback and reduce manual effort
-- Emphasized clear assertions, data-driven tests, and maintainable structure
+### Inventory System Test Automation Framework
+Selenium WebDriver | Java | TestNG
+- Developed a scalable test automation framework for an inventory management system using Selenium WebDriver and Java
+- Automated key scenarios including login validation, product management, and end-to-end user workflows
+- Implemented data-driven testing using external data sources (Excel/JSON) to improve test coverage
+- Structured and executed test cases using TestNG
+- Applied explicit waits to handle dynamic elements and improve test stability
+- Generated and analyzed test execution reports to track results and identify defects
+
+### API Testing and Automation Framework
+Postman | RestAssured | Java
+- Performed API testing using Postman, validating status codes, response bodies, and authentication mechanisms
+- Tested role-based access scenarios, including user authorization and admin validation
+- Developed automated API test scripts using RestAssured (Java)
+- Structured test scripts for scalability, reusability, and maintainability
+- Ensured API reliability through consistent validation and structured testing practices
 
 ### Performance Testing with k6
-- Built load test scenarios to measure API response times, throughput, and error rates
-- Identified performance bottlenecks and documented actionable improvement opportunities
-- Captured reliable metrics and thresholds for scalable system behavior
+k6 | JavaScript
+- Developed performance testing scripts using k6 (JavaScript) to simulate concurrent user traffic
+- Executed load tests with varying virtual users (VUs) to assess system scalability and stability
+- Monitored key metrics such as response time, request rate, and error rates
+- Defined and applied performance thresholds to evaluate system behavior under load
+- Analyzed test results to identify performance bottlenecks and system limitations
+- Built reusable and maintainable test scripts for repeated performance testing
 
 > Explore all my GitHub projects for additional automation, performance, and API testing examples.
 
 ---
 
 ## 💼 Experience
+
+### Ndosi Test Automation
+Test Automation Trainee
+- Built automated test frameworks using Selenium WebDriver (Java) and TestNG
+- Developed and executed API tests using Postman and REST Assured
+- Used Git for version control and collaboration
+- Improved test reliability using assertions, waits, and debugging techniques
 
 ### Technical & Transferable Strengths
 - Detail-oriented approach ideal for QA analysis and issue investigation
