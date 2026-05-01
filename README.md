@@ -37,7 +37,8 @@ Aspiring QA Engineer specializing in software testing and automation. Focused on
 
 ## 🚀 GitHub Projects
 
-### Inventory System Test Automation Framework
+### 🧩 Inventory System Test Automation Framework
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-4C8BBF?logo=testng&logoColor=white)
 Selenium WebDriver | Java | TestNG
 - Developed a scalable test automation framework for an inventory management system using Selenium WebDriver and Java
 - Automated key scenarios including login validation, product management, and end-to-end user workflows
@@ -46,7 +47,8 @@ Selenium WebDriver | Java | TestNG
 - Applied explicit waits to handle dynamic elements and improve test stability
 - Generated and analyzed test execution reports to track results and identify defects
 
-### API Testing and Automation Framework
+### 🔧 API Testing and Automation Framework
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![RestAssured](https://img.shields.io/badge/RestAssured-8A1538?logo=rest-api&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 Postman | RestAssured | Java
 - Performed API testing using Postman, validating status codes, response bodies, and authentication mechanisms
 - Tested role-based access scenarios, including user authorization and admin validation
@@ -54,7 +56,8 @@ Postman | RestAssured | Java
 - Structured test scripts for scalability, reusability, and maintainability
 - Ensured API reliability through consistent validation and structured testing practices
 
-### Performance Testing with k6
+### ⚡ Performance Testing with k6
+![k6](https://img.shields.io/badge/k6-000000?logo=k6&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 k6 | JavaScript
 - Developed performance testing scripts using k6 (JavaScript) to simulate concurrent user traffic
 - Executed load tests with varying virtual users (VUs) to assess system scalability and stability
@@ -69,14 +72,16 @@ k6 | JavaScript
 
 ## 💼 Experience
 
-### Ndosi Test Automation
-Test Automation Trainee
+### 🏢 Ndosi Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-4C8BBF?logo=testng&logoColor=white)
+**Test Automation Trainee**
 - Built automated test frameworks using Selenium WebDriver (Java) and TestNG
 - Developed and executed API tests using Postman and REST Assured
 - Used Git for version control and collaboration
 - Improved test reliability using assertions, waits, and debugging techniques
 
-### Technical & Transferable Strengths
+### 💡 Technical & Transferable Strengths
+![Quality](https://img.shields.io/badge/Quality-00A2FF?logo=quality&logoColor=white) ![Collaboration](https://img.shields.io/badge/Collaboration-6F42C1?logo=slack&logoColor=white) ![Learning](https://img.shields.io/badge/Learning-F4B400?logo=learning&logoColor=white)
 - Detail-oriented approach ideal for QA analysis and issue investigation
 - Comfortable documenting findings, collaborating with teams, and learning new tools
 - Experience working within process-driven environments and continuous improvement
