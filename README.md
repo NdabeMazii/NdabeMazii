@@ -87,10 +87,8 @@ Test Automation Trainee
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NdabeMazii&show_icons=true&theme=radical)](https://github.com/NdabeMazii)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NdabeMazii&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📬 Connect with me
