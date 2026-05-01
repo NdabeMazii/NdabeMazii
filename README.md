@@ -28,23 +28,36 @@ Aspiring QA Engineer specializing in software testing and automation. Focused on
 
 ---
 
-## 🚀 GitHub Projects
+## 🚀 Projects
 
-### Test Automation Framework
-- Developed reusable automation scripts using JavaScript for regression and API validation
-- Designed stable test flows to accelerate feedback and reduce manual effort
-- Emphasized clear assertions, data-driven tests, and maintainable structure
+### Inventory System Test Automation Framework
+Selenium WebDriver | Java | TestNG
+- Developed a test automation framework for an inventory management system using Selenium WebDriver and Java
+- Automated key test scenarios including login validation, product management, and user workflows
+- Implemented data-driven testing using external data sources (Excel/JSON)
+- Used TestNG for test execution and structuring test cases
+- Applied explicit waits to handle dynamic web elements and improve test reliability
+- Generated test execution reports for tracking results
 
-### Performance Testing with k6
-- Built load test scenarios to measure API response times, throughput, and error rates
-- Identified performance bottlenecks and documented actionable improvement opportunities
-- Captured reliable metrics and thresholds for scalable system behavior
+### API Testing and Automation Framework
+Postman | RestAssured | Java
+- Performed API testing using Postman, validating status codes, response bodies, and authentication
+- Tested user role validation scenarios (e.g., Admin verification)
+- Developed automated API tests using RestAssured in Java (IntelliJ)
+- Structured API test scripts for scalability and reusability
+- Ensured API reliability through consistent validation and testing practices
 
 > Explore all my GitHub projects for additional automation, performance, and API testing examples.
 
 ---
 
 ## 💼 Experience
+
+### Ndosi Test Automation — Test Automation Trainee
+- Built automated test frameworks using Selenium WebDriver (Java) and TestNG
+- Developed and executed API tests using Postman and REST Assured
+- Used Git for version control and collaboration
+- Improved test reliability using assertions, waits, and debugging techniques
 
 ### Technical & Transferable Strengths
 - Detail-oriented approach ideal for QA analysis and issue investigation
