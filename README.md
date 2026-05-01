@@ -100,4 +100,4 @@ Test Automation Trainee
 
 ---
 
-> Banner suggestion: Use a clean, modern header image with QA/testing visuals, subtle gradients, and a concise quality-first tagline.
+
