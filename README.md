@@ -94,14 +94,14 @@ Test Automation Trainee
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NdabeMazii&show_icons=true&theme=radical)](https://github.com/NdabeMazii)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NdabeMazii&theme=dark)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NdabeMazii&show_icons=true&theme=github_dark)](https://github.com/NdabeMazii)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NdabeMazii&theme=github_dark)](https://git.io/streak-stats)
 ---
 
 ## 📬 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ndabezinhle-mazibuko/)
-- [GitHub](https://github.com/NdabeMazii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndabezinhle-mazibuko/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NdabeMazii)
 
 ---
 
