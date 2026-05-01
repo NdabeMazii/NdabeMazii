@@ -20,11 +20,18 @@ Aspiring QA Engineer specializing in software testing and automation. Focused on
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005CDB?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-000000?logo=k6&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-00A2FF?logo=performance&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-00A2FF?logo=apollographql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 
 ---
 
